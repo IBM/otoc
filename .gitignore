@@ -1,0 +1,7 @@
+*-checkpoint.ipynb
+dist/*
+*.egg-info
+
+*.pyc
+
+__pycache__

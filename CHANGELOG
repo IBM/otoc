@@ -1,0 +1,11 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [0.1.0] - 2022-06-05
+
+### Added
+- First order method to solve optimal transport with order constraints in `otoc.iterative`
+- Tree search to learn salient order constraints given a base plan in `otoc.tree_search`
+- Tests for the above
+- LICENSE, MAINTAINERS, setup.cfg, README.md
